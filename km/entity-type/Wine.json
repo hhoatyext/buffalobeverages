@@ -1,5 +1,5 @@
 {
-  "$id": "ce_Wine",
+  "$id": "buffalobevs_Wine",
   "$schema": "https://schema.yext.com/config/km/entity-type/v1",
   "description": "",
   "displayName": "Wine",
@@ -18,19 +18,19 @@
       "required": true
     },
     {
-      "id": "c_ABV",
+      "id": "buffalobevs_ABV",
       "required": false
     },
     {
-      "id": "c_type",
+      "id": "buffalobevs_type",
       "required": false
     },
     {
-      "id": "c_vineyard",
+      "id": "buffalobevs_vineyard",
       "required": false
     },
     {
-      "id": "c_vintage",
+      "id": "buffalobevs_vintage",
       "required": false
     },
     {
