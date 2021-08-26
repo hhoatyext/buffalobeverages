@@ -1,5 +1,5 @@
 {
-  "$id": "ce_Beer",
+  "$id": "buffalobevs_Beer",
   "$schema": "https://schema.yext.com/config/km/entity-type/v1",
   "description": "",
   "displayName": "Beer",
@@ -14,11 +14,11 @@
       "required": true
     },
     {
-      "id": "c_ABV",
+      "id": "buffalobevs_ABV",
       "required": false
     },
     {
-      "id": "c_beerType",
+      "id": "buffalobevs_beerType",
       "required": false
     },
     {
