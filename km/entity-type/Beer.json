@@ -14,7 +14,7 @@
       "required": true
     },
     {
-      "id": "buffalobev_ABV",
+      "id": "buffalobevs_ABV",
       "required": false
     },
     {
