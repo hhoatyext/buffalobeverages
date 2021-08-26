@@ -1,5 +1,5 @@
 {
-  "$id": "c_beerType",
+  "$id": "buffalobevs_beerType",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Beer Type",
   "group": "NONE",
